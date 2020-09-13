@@ -30,6 +30,13 @@ body{
 
 /* PLAN SECTION......... */
 
+/* centering the plans column */
+.plan__list{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
 .plan{
     background: #d5ffdc;
     text-align: center;
